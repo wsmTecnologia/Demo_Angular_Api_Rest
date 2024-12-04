@@ -1,2 +1,2 @@
-# Demo_Angular_Api_Rest
-Aplicação demo feita em angular com backend api rest full asp net core e autenticação jwt
+# Minimal-API
+A complete and functional Minimal API using .NET 6
